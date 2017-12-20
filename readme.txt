@@ -16,6 +16,7 @@ git init
 git add .
 # Commits the tracked changes and prepares them to be pushed to a remote repository. To remove this commit and modify 
 the file, use 'git reset --soft HEAD~1' and commit and add the file again.git commit -m "First commit"
+git commit -m "First commit"
 
 Next, you want to upload your files to github.com
 At the top of your GitHub repository's Quick Setup page on the website, click  to copy the remote repository URL. e.g. https://github.com/papython/python_REST.git
