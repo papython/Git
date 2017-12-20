@@ -21,7 +21,7 @@ git commit -m "First commit"
 Next, you want to upload your files to github.com
 At the top of your GitHub repository's Quick Setup page on the website, click  to copy the remote repository URL. e.g. https://github.com/papython/python_REST.git
 In the linux command prompt, add the URL for the remote repository where your local repository will be pushed.
-git remote add origin remote repository URL
+git remote add origin https://github.com/papython/python_REST.git
 # Sets the new remote
 git remote -v
 # Verifies the new remote URL
