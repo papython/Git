@@ -1,6 +1,6 @@
 
 Creating a new repo in git can be done only via the webpage
-login using prakashanand.email@gmail.com with pass test1234!
+login using *******.email@gmail.com with pass *******
 once logged in, create a repo using the options on the website
 NOTE: Your root folder in github is "papython", so all of your projects will have https://github.com/papython as the default github path
 
